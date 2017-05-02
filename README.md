@@ -1,6 +1,8 @@
 # Node.js Template
 ### _Simple template for bootstrapping Node.js projects_
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/node-template.svg)](https://greenkeeper.io/)
+
 ![logo](./.github/logo.png)
 
 [![Build Status](https://travis-ci.org/retrohacker/notreallyapackage.png?branch=master)](https://travis-ci.org/retrohacker/notreallyapackage)
